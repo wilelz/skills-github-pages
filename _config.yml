@@ -1,4 +1,4 @@
-theme: midnight
+remote_theme: pages-themes/midnight@v0.2.0
 title: The gangs to do lists
 author: William Elzemeyer
 description: Shit we need to get done 
