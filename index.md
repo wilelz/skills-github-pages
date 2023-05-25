@@ -1,4 +1,4 @@
 ---
-title: Welcome to our to do lists
+title: Shreya Dakshina and William's to do lists
 ---
 
